@@ -1,0 +1,6 @@
+#
+# nestjs
+#
+dist
+node_modules
+
